@@ -32,41 +32,41 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Thi
 
 **In `index.html`:**
 
-- **Line 14**: Update the page title
+- **Line 7**: Update the page title
   ```html
   <title>Your Name - Professional Resume</title>
   ```
 
-- **Line 20**: Update your name in the navigation logo
+- **Line 21**: Update your name in the navigation logo
   ```html
   <div class="logo">Your Name</div>
   ```
 
-- **Line 35**: Update the profile section
+- **Lines 40-41**: Update the profile section
   ```html
   <h1>Your Full Name</h1>
   <p class="tagline">Software Developer | Full Stack Engineer | Tech Enthusiast</p>
   ```
 
-- **Lines 44-54**: Customize the About Me section with your personal introduction
+- **Lines 50-60**: Customize the About Me section with your personal introduction
 
-- **Lines 61-119**: Update your skills in each category (Frontend, Backend, Tools, Soft Skills)
+- **Lines 69-110**: Update your skills in each category (Frontend, Backend, Tools, Soft Skills)
 
-- **Lines 126-147**: Update your education history
+- **Lines 119-137**: Update your education history
 
-- **Lines 155-177**: Update your contact information (email, phone, location)
+- **Lines 146-167**: Update your contact information (email, phone, location)
 
-- **Lines 181-196**: Update social media links with your actual profiles
+- **Lines 170-183**: Update social media links with your actual profiles
 
-- **Line 204**: Update copyright year and name
+- **Line 190**: Update copyright year and name
 
 **In `projects.html`:**
 
-- **Line 6 & 20**: Update your name in the title and logo
+- **Line 7 & 21**: Update your name in the title and logo
 
 - **Lines 36-37**: Customize the projects page heading
 
-- **Lines 45-156**: Customize each project card:
+- **Lines 47-157**: Customize each project card:
   - Project title
   - Description
   - Technologies/tags
